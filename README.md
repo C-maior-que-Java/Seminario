@@ -7,13 +7,13 @@ sado. O grupo deve preparar um conjunto de slides de apoio à apresentação.
  4) Corrigir a resposta elaborada pelos alunos do exercıcio.
  
 ## Tema: Padrões de Projetos Comportamentais
-**O que são design patterns**?
+**O que são design patterns**? <br />
  Em Engenharia de Software, um design pattern é uma **solução geral** repetida a problemas comuns
  que ocorrem em projetos de software. Um design pattern não é um projeto pronto que pode ser
  implementado diretamente (código). É uma **descrição ou modelo** de como resolver determinado
  problema que aparece em diferentes situações.
  
-**Usos dos design patterns**:
+**Usos dos design patterns**: <br />
  Os design pattern podem **diminuir o tempo de desenvolvimento** do projeto ao fornecer **modelos
  corretos e testados**. Projetos efetivos de software consideram problemas que podem não ser visíveis
  até a sua implementação. Reusar padrões de projeto ajuda a prevenir que tais erros se tornem
@@ -21,7 +21,7 @@ sado. O grupo deve preparar um conjunto de slides de apoio à apresentação.
  Design patterns permitem uma boa comunicação entre desenvolvedores pois usam nomes sugestivos do que
  eles significam e quais os seus usos nas interações do software.
  
-**O que são padrões de projeto comportamentais (behavioral design patterns)**?
+**O que são padrões de projeto comportamentais (behavioral design patterns)**? <br />
  Em Engenharia de Software, padrões de projeto comportamentais são padrões de projeto que identificam
  **padrões comuns de comunicação** entre objetos e percebe esses padrões. Fazendo isso, esses padrões
  ganham flexibilidade em executar essa comunicação.
@@ -83,6 +83,15 @@ https://sourcemaking.com/design_patterns/iterator/java/2 <br />
 ## Sequência da Apresentação
 1) Passagem rápida sobre o que é Design Patterns e Design Patterns Comportamentais
 2) Apresentar 4 ou 5 Design Patterns (aqueles que acharmos mais relevantes)
-3) Pra cada Design Pattern, explicar o que é e sua motivação de uso, e mostrar 2 exemplos (1 mais abstrato com
-exemplos do mundo real e sem código, pra galera abstrair melhor o que significa o padrão
-e o outro com uma aplicação mais técnica e com a implementação em Java).
+3) Pra cada Design Pattern, explicar o que é e sua **motivação de uso**, e mostrar 2 exemplos (1 mais abstrato com
+**exemplos do mundo real e sem código**, pra galera abstrair melhor o que significa o padrão
+e o outro com uma **aplicação mais técnica e com a implementação em Java**).
+
+## Tutorial
+Escolher **2 design patterns**. Para cada um, **apresentar um problema da vida real** para o qual é possível aplicar o padrão.
+Depois de explicada a motivação do uso do padrão, **implementá-lo em Java**.
+
+## Exercício
+1) Uma **questão teórica** sobre a aplicação de um padrão para uma determinada situação.<br />
+Seria legal apresentar alguma situação para a qual é possível **usar mais de um padrão de comportamento** e pedir para que implemente pelo menos um.<br />
+2) Completar alguma parte da **implementação do padrão em Java**.
